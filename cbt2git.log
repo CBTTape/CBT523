@@ -1,0 +1,15 @@
+2023-08-06 05:01:50.108023 - Initialized conversion of CBT523
+2023-08-06 05:01:50.426817 - Received CBT.V505.FILE523.PDS from FILE523.XMI 
+2023-08-06 05:01:50.429272 - Found $$$$$$IX.txt (text/plain) in CBT.V505.FILE523.PDS, moved to PDS/$$$$$$IX
+2023-08-06 05:01:50.430212 - Found $$$$$DOC.txt (text/plain) in CBT.V505.FILE523.PDS, moved to PDS/$$$$$DOC
+2023-08-06 05:01:50.431253 - Found $$$$INST.txt (text/plain) in CBT.V505.FILE523.PDS, moved to PDS/$$$$INST
+2023-08-06 05:01:50.432361 - Found $$$$SAMP.txt (text/plain) in CBT.V505.FILE523.PDS, moved to PDS/$$$$SAMP
+2023-08-06 05:01:50.433330 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE523.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:01:50.434297 - Found $$$CHANG.txt (text/plain) in CBT.V505.FILE523.PDS, moved to PDS/$$$CHANG
+2023-08-06 05:01:50.434308 - Found $$NOTE1.bin containing application/octet-stream, moved to PDS/$$NOTE1
+2023-08-06 05:01:50.436389 - Found $$NOTE2.txt (text/plain) in CBT.V505.FILE523.PDS, moved to PDS/$$NOTE2
+2023-08-06 05:01:50.437338 - Found $$NOTE3.txt (text/plain) in CBT.V505.FILE523.PDS, moved to PDS/$$NOTE3
+2023-08-06 05:01:50.438282 - Found $$NOTE4.txt (text/plain) in CBT.V505.FILE523.PDS, moved to PDS/$$NOTE4
+2023-08-06 05:01:50.439266 - Found @FILE523.txt (text/plain) in CBT.V505.FILE523.PDS, moved to PDS/@FILE523
+2023-08-06 05:01:50.440536 - Found SMFSLCT.txt (text/plain) in CBT.V505.FILE523.PDS, moved to PDS/SMFSLCT
+2023-08-06 05:01:50.441794 - Found ZSMFSLCT.txt (text/plain) in CBT.V505.FILE523.PDS, moved to PDS/ZSMFSLCT
