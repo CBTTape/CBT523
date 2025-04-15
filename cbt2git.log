@@ -1,14 +1,14 @@
-2025-04-13 20:26:35.227598 - Received CBT.V508.FILE523.PDS from FILE523.XMI 
-2025-04-13 20:26:35.228622 - Found $$$$$$IX.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/$$$$$$IX
-2025-04-13 20:26:35.228707 - Found $$$$$DOC.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/$$$$$DOC
-2025-04-13 20:26:35.228772 - Found $$$$INST.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/$$$$INST
-2025-04-13 20:26:35.228834 - Found $$$$SAMP.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/$$$$SAMP
-2025-04-13 20:26:35.228895 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/$$$#DATE
-2025-04-13 20:26:35.228955 - Found $$$CHANG.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/$$$CHANG
-2025-04-13 20:26:35.229013 - Found $$NOTE1.bin (application/octet-stream) in CBT.V508.FILE523.PDS, moved to PDS/$$NOTE1
-2025-04-13 20:26:35.229072 - Found $$NOTE2.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/$$NOTE2
-2025-04-13 20:26:35.229133 - Found $$NOTE3.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/$$NOTE3
-2025-04-13 20:26:35.229199 - Found $$NOTE4.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/$$NOTE4
-2025-04-13 20:26:35.229261 - Found @FILE523.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/@FILE523
-2025-04-13 20:26:35.229746 - Found SMFSLCT.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/SMFSLCT
-2025-04-13 20:26:35.230219 - Found ZSMFSLCT.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/ZSMFSLCT
+2025-04-15 03:10:56.180269 - Received CBT.V508.FILE523.PDS from FILE523.XMI 
+2025-04-15 03:10:56.181910 - Found $$$$$$IX.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/$$$$$$IX
+2025-04-15 03:10:56.182248 - Found $$$$$DOC.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/$$$$$DOC
+2025-04-15 03:10:56.182554 - Found $$$$INST.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/$$$$INST
+2025-04-15 03:10:56.182875 - Found $$$$SAMP.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/$$$$SAMP
+2025-04-15 03:10:56.183045 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/$$$#DATE
+2025-04-15 03:10:56.183205 - Found $$$CHANG.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/$$$CHANG
+2025-04-15 03:10:56.183362 - Found $$NOTE1.bin (application/octet-stream) in CBT.V508.FILE523.PDS, moved to PDS/$$NOTE1
+2025-04-15 03:10:56.183561 - Found $$NOTE2.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/$$NOTE2
+2025-04-15 03:10:56.183800 - Found $$NOTE3.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/$$NOTE3
+2025-04-15 03:10:56.184020 - Found $$NOTE4.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/$$NOTE4
+2025-04-15 03:10:56.184234 - Found @FILE523.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/@FILE523
+2025-04-15 03:10:56.185625 - Found SMFSLCT.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/SMFSLCT
+2025-04-15 03:10:56.187259 - Found ZSMFSLCT.txt (text/plain) in CBT.V508.FILE523.PDS, moved to PDS/ZSMFSLCT
